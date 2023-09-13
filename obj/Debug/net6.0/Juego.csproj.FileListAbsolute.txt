@@ -1,0 +1,15 @@
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Juego.exe
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Juego.deps.json
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Juego.runtimeconfig.json
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Juego.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Juego.pdb
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.csproj.AssemblyReference.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.AssemblyInfoInputs.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.AssemblyInfo.cs
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.csproj.CoreCompileInputs.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\refint\Juego.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.pdb
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Juego.genruntimeconfig.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\ref\Juego.dll

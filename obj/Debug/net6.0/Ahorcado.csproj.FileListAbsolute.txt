@@ -1,0 +1,15 @@
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Ahorcado.exe
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Ahorcado.deps.json
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Ahorcado.runtimeconfig.json
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Ahorcado.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\bin\Debug\net6.0\Ahorcado.pdb
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.AssemblyInfo.cs
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\refint\Ahorcado.dll
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.pdb
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\Ahorcado.genruntimeconfig.cache
+C:\Users\SanchezAlvaro13H\source\repos\Juego\obj\Debug\net6.0\ref\Ahorcado.dll

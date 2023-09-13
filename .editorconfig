@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+dotnet_diagnostic.IDE0210.severity = none
+
+# IDE0057: Usar el operador de intervalo
+dotnet_diagnostic.IDE0057.severity = none
+
+# IDE0040: Agregar modificadores de accesibilidad
+dotnet_diagnostic.IDE0040.severity = none
+
+# Default severity for analyzer diagnostics with category 'Style'
+dotnet_analyzer_diagnostic.category-Style.severity = none
